@@ -7,6 +7,7 @@ import threading
 
 
 worker = TransactionWorker()
+#how much time should the main run (and the worker)
 MAIN_TIMER = 50
 
 
